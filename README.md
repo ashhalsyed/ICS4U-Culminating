@@ -4,5 +4,5 @@
 * You need to have the pygame (.zip) folder and the other files (images, sounds, and text file) in the same folder as the .py file
 
 <p float="center">
-  <img src="https://github.com/ashhalsyed/ICS4U-Culminating/blob/master/Str%20(60)%20Data/startScreen.png"/>
+  <img src="https://github.com/ashhalsyed/ICS4U-Culminating/blob/master/Str%20(60)%20Data/startScreen.png"/ align="center">
 </p>
