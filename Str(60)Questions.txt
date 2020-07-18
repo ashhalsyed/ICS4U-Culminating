@@ -1,0 +1,45 @@
+Which Big O Notation would be the most efficient in sorting?
+O(1)
+O(n)
+O(log(n))
+O(n^2)
+The _______ of a variable dictate where it can be used
+Scope
+Stack
+Function
+Sentinel
+Which of the following is not a pillar of OOP?
+Composition
+Abstraction
+Inheritance
+Polymorphism
+What does Quick Sort use to break up and sort lists?
+Pivots
+Heaps
+Ranges
+Objects
+Which of the following use a base case?
+Recursion
+Sentinel Loop
+Stack
+Interactive Loop
+What sorting algorithm does python '.sort()' use?
+Timsort
+Merge Sort
+Insertion Sort
+Quick Sort
+The following error occurs when an impossible operation is attempted
+Run-time Error
+Logic Error
+Syntax Error
+Compilation Error
+Which pygame operation is used to create a quarter circle?
+pygame.draw.arc(screen,BLACK,[100,100,100,100],start,end,2)
+pygame.draw.circle(screen,BLACK,(40,40),10,2)
+pygame.draw.ellipse(screen,BLACK,[200,200,120,30],2)
+pygame.draw.polygon(screen,BLACK,[(400,400),(100,100)],2)
+What Is the correct format for an EasyGui message box?
+easygui.buttonbox(Message, Title, Choices, Image)
+easygui.buttonbox(Choices, Message, Image, Title)
+easygui.buttonbox(Message, Choices, Image, Title)
+easygui.buttonbox(Image, Title, Choices, Message)
