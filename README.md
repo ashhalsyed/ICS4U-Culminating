@@ -35,8 +35,8 @@ py "Str(60).py"
 
 - Use the mouse to navigate the menu and control the character.
 - You start with 3 lives and must survive for 60 seconds.
-- You lose a life if you hit a projectile OR incorrectly answer a multiple choice question
+- You lose a life if you hit a projectile OR incorrectly answer a multiple choice question.
 
 ## Cheat
 
-To make it easier to get to the end of the game, you can press Spacebar to reset your lives
+To make it easier to get to the end of the game, you can press Spacebar to reset your lives.
