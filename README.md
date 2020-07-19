@@ -34,7 +34,7 @@ py "Str(60).py"
 ## How to Play
 
 - Use the mouse to navigate the menu and control the character.
-- You start with 3 lives and must suvive for 60 seconds.
+- You start with 3 lives and must survive for 60 seconds.
 - You lose a life if you hit a projectile OR incorrectly answer a multiple choice question
 
 ## Cheat
