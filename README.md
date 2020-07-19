@@ -8,7 +8,7 @@ A 2D video game where the goal is to stay alive for 60 seconds
 
 - [Python 3](https://www.python.org/downloads/)
 - [Git](https://git-scm.com/)
-- [Pip](https://pypi.org/project/pygame/)
+- [Pip](https://pypi.org)
 
 ## Installation
 
